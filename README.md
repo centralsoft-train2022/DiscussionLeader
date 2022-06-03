@@ -24,3 +24,5 @@
 ⑩git commit -m “issue99を反映”
 
 ⑪git push origin devlop_issue99
+
+⑫git branch -D devlop_issue99
