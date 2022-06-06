@@ -1,7 +1,7 @@
 
 import java.util.Random;
 
-public class DiscussionReader
+public class DiscussionLeader
 {
 	private static String[][] member = new String[][]{
 		{"國井", "青木" ,"松崎", "白濵", "空白"},
