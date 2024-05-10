@@ -16,9 +16,9 @@ public class DiscussionLeader {
 
 class GroupMgr {
 	private static Group[] initGroupList = {
-			new Group(1, "古川 未羽", "廣瀨 翔", "服部 楓也", "瀬戸口 創", "早川 裕也"),
-			new Group(2, "前野 颯希", "有澤 恭兵", "中島 実奈美", "船尾 竜史", "大和田 瑞稀"),
-			new Group(3, "斎藤 さくら", "松田 教賢", "外瀬 文音", "綿貫 伊吹")
+			new Group(1, "勝見 将吾", "荒木 海音", "前殿 涼太", "遠藤 稜士", "磯部 優大"),
+			new Group(2, "山下 嘉斗", "松村 香菜絵", "薮中 剛", "鈴木 涼晟", "後藤 明日翔"),
+			new Group(3, "三宮 佳子", "大谷 涼介", "中武 恭兵", "宮﨑 晃作")
 	};
 
 	private Group[] groupList;
